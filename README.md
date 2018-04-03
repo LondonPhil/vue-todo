@@ -1,1 +1,1 @@
-A Vue/Mondo/Express/Node todo app based on [this guide](https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-vuejs--part-2--3k11).
+A Vue/Mongo/Express/Node todo app based on [this guide](https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-vuejs--part-2--3k11).
